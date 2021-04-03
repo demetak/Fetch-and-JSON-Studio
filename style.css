@@ -14,3 +14,11 @@
     margin-bottom: 20px;
     border-radius: 6px;
 }
+#activetrue {
+    color:green;
+    font-weight: bold;
+}
+#activefalse {
+    color:red;
+    font-weight: bold;
+}
